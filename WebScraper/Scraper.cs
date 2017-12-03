@@ -50,8 +50,8 @@ namespace WebScraper
                 if (dateAndTimeDetailsArrayLenth > 1)
                 {
                      date = dateAndTimeDetailsArray[0] + dateAndTimeDetailsArray[1];
-                     time = dateAndTimeDetailsArray[2];
-                }                
+                     if (dateAndTimeDetailsArrayLenth > 2) time = dateAndTimeDetailsArray[2];
+                }            
 
                 var price = item?.Descendants("strong").FirstOrDefault()?.InnerText;
                 var specialGuests = item?.Descendants("i")?.FirstOrDefault()?.InnerText.Replace(",", "");
