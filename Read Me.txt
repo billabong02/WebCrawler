@@ -1,0 +1,10 @@
+Before running the program, please create the directory "Scraped Events" in your C Drive (C:\Scraped Events) or modify line 108 in "Scraper.cs" to specify a location on your machine.
+
+I coded this web crawler in C# using Visual Studio and made use of the following libraries:
+
+- HTMLAgilityPack
+- Microsoft.Net.Http
+
+I've limited the web scraper to scrape only the first 10 pages but this can be changed by modifying the while loop in the "Program.cs" file.
+
+- Billy Soomro

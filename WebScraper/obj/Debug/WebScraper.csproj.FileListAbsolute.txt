@@ -1,0 +1,56 @@
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.App.config
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\billy.soomro\Desktop\Web Scraper\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\obj\Debug\WebScraper.csproj.App.config
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\obj\Debug\WebScraper.csproj.App.config
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\obj\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\billy.soomro\Desktop\WebScraper - Copy\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\WebScraper.exe.config
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\WebScraper.pdb
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\obj\Debug\WebScraper.csproj.App.config
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\obj\Debug\WebScraper.exe
+C:\Users\billy.soomro\Desktop\WebScraper -  Final\WebScraper\obj\Debug\WebScraper.pdb
